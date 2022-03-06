@@ -1,7 +1,15 @@
-# LISTA DE COMANDOS
-
+# LISTA DE COMANDOS NERDCTL
 
 nerdctl pull jasonrivers/nagios:latest
 
 nerdctl run --name nagios4 -p 0.0.0.0:8080:80 jasonrivers/nagios:latest
+
+
+# COMANDOS GIT
+
+git init
+git remote add origin git@github.com:<user>/<git>.git
+git add .
+git commit -m "first commit"
+git push -u origin main 
 

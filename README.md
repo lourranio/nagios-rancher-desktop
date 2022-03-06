@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="imgs/logo-rancherdesktop-nagios.gif" alt="Project logo"></a>
+ <img  src="imgs/logo-rancherdesktop-nagios.gif" alt="Logo rancher e nagios"></a>
 </p>
 
 <h3 align="center">NAGIOS com RANCHER DESKTOP</h3>
@@ -40,7 +40,7 @@ Pass: `nagios`
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="imgs/nagios-instaled.png" alt="Project logo"></a>
+ <img src="imgs/nagios-instaled.png" alt="imagem nagios"></a>
 </p>
 
 - Se voce quiser parar, no terminal basta fazer CTRL + C.
@@ -189,19 +189,19 @@ O Rancher tem outros servicos como :
 
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://rancherdesktop.io/images/kubernetes-settings.png" alt="Project logo"></a>
+ <img  src="https://rancherdesktop.io/images/kubernetes-settings.png" alt="img"></a>
 </p>
 
 ## Arquitetura
 
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://rancherdesktop.io/images/how-it-works-rancher-desktop.svg" alt="Project logo"></a>
+ <img  src="https://rancherdesktop.io/images/how-it-works-rancher-desktop.svg" alt="logo"></a>
 </p>
 
 # Build and Run Containers
 
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://rancherdesktop.io/images/terminal.gif" alt="Project logo"></a>
+ <img  src="https://rancherdesktop.io/images/terminal.gif" alt="logo"></a>
 </p>
