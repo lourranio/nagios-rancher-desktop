@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="imgs/logo-rancherdesktop-nagios.gif" alt="Project logo"></a>
+ <img  src="imgs/logo-rancherdesktop-nagios.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">NAGIOS com RANCHER DESKTOP</h3>
