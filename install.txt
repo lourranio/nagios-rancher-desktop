@@ -1,0 +1,3 @@
+nerdctl pull jasonrivers/nagios:latest
+
+nerdctl run --name nagios4 -p 0.0.0.0:8080:80 jasonrivers/nagios:latest
